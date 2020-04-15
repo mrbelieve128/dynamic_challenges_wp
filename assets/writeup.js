@@ -20,6 +20,8 @@ $(document).ready(function () {
             success: function (result) {
                 if (result == 'Success')
                     uploaded_message();
+                else
+                    error_message();
             },
             error: function(xhr,status,error){
                 error_message();
