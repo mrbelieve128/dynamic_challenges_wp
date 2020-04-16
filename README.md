@@ -1,5 +1,5 @@
 # Dynamic Value Challenges for CTFd with Writeup
-a CTFd plugins Modified from [Dynamic Value Challenges for CTFd](https://github.com/CTFd/CTFd/blob/master/CTFd/plugins/dynamic_challenges/README.md),which allow players upload their writeups.
+A CTFd plugins Modified from [Dynamic Value Challenges for CTFd](https://github.com/CTFd/CTFd/blob/master/CTFd/plugins/dynamic_challenges/README.md),which allow players upload their writeups.
 
 Other features are some with [Dynamic Value Challenges for CTFd](https://github.com/CTFd/CTFd/blob/master/CTFd/plugins/dynamic_challenges/README.md)
 
